@@ -28,7 +28,7 @@ Also choose the skip factor properly. It is just a workaround, so you'll probabl
 <p align="center">
 <img src="http://www.davideabati.com/resources/output_no_skip.jpg" alt="input_image" width=350px></img>
 </p>
-This is clearly unacceptable, since we want the least pixel image repetition we can get.
+This is clearly unacceptable, since we want the lowest pixel image repetition we can get.
 
 On the other hand, if we exaggerate, we would get something like:
 <p align="center">
